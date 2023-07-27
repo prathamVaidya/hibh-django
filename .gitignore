@@ -1,0 +1,6 @@
+# ignore these files
+
+.env
+.env.dev
+.env.prod
+.env.local
